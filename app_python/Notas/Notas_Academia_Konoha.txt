@@ -1,0 +1,12 @@
+Naruto Uzumaki,Equipe 7,Time Kakashi,4,3.5,2,3,3.5,3.5,5,1.5
+Sakura Haruno,Equipe 7,Kakashi,3,3,3.5,4,3,3,2.5,4
+Sasuke Uchiha,Equipe 7,Time Kakashi,5,3.5,4,3.5,3.5,4.5,3.5,4
+Aburame Shino,Equipe 8,Time Kurenai,4,1.5,2,4,1.5,3.5,3,2
+Hinata Hyuga,Equipe 8,Time Kurenai,3,3.5,2.5,3.5,1.5,2.5,2,3
+Inuzuka Kiba,Equipe 8,Time Kurenai,3.5,3,2,2,3,4.5,2.5,1.5
+Neji Hyuga,Equipe 9,Time Guy,4,4.5,2,3,2.5,4.5,3.5,3
+Rock Lee,Equipe 9,Time Guy,0,5,0,2,4.5,4.5,3.5,1
+Tenten,Equipe 9,Time Guy,3,3.5,1.5,4,1.5,3.5,2,2
+Akimichi Chouji,Equipe 10,Time Asuma,3.5,3,1,2,4.5,2,3.5,1
+Ino Yamanaka,Equipe 10,Time Asuma,3.5,1.5,3,3,2.5,2.5,2.5,2.5
+Shikamaru Nara,Equipe 10,Time Asuma,3.5,2,3,5,2,2.5,3,3
